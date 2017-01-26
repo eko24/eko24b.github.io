@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Generic Name"
+description: "Tiny dev thoughts of big dev things."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -26,10 +26,10 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
-  google:
+  name: Erik Kotsiuba
+  email: eko24ive@gmail.com
+  twitter: eko24ive
+  google: 
     ad-client:
     ad-slot:
   bio:
